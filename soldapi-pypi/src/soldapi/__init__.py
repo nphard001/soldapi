@@ -15,6 +15,6 @@ import logging
 # from .core import qwork  # Chores like pathing, time utils.
 
 
-__all__ = []
+# __all__ = ["qwork"]
 
 logging.getLogger("soldapi").addHandler(logging.NullHandler())
